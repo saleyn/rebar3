@@ -8,6 +8,6 @@
  {<<"providers">>,{pkg,<<"providers">>,<<"1.6.0">>},0},
  {<<"relx">>,
   {git,"https://github.com/saleyn/relx.git",
-       {ref,"34924ebdb00be043cc3ec42480059de8f2ac49b1"}},
+       {ref,"56c67789981afceb30ca279852519ce05b950847"}},
   0},
  {<<"ssl_verify_hostname">>,{pkg,<<"ssl_verify_hostname">>,<<"1.0.5">>},0}].
